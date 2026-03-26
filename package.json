@@ -2,11 +2,10 @@
   "name": "domains-market",
   "private": true,
   "scripts": {
-    "build": "next build",
-    "start": "next start"
+    "build": "next build"
   },
   "dependencies": {
-    "next": "14.2.3",
+    "next": "14.2.15",
     "react": "18.2.0",
     "react-dom": "18.2.0"
   }
