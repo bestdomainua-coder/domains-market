@@ -1,10 +1,7 @@
 {
   "compilerOptions": {
     "target": "ES6",
-    "lib": ["dom", "dom.iterable", "esnext"],
     "jsx": "preserve",
-    "module": "esnext",
-    "moduleResolution": "bundler",
-    "strict": false
+    "moduleResolution": "bundler"
   }
 }
